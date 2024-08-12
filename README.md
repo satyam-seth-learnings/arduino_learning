@@ -1,6 +1,6 @@
 - [octopart](https://octopart.com/) - search iot parts
 
-- [tinkercad](tinkercad.com) - online simulator
+- [tinkercad](https://www.tinkercad.com/) - online simulator
 
 - [Arduino Uno Rev 3](https://store-usa.arduino.cc/products/arduino-uno-rev) - recommended arduino model for beginners
 
