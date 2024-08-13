@@ -8,4 +8,4 @@
 
 - [Arduino Web Editor](https://create.arduino.cc/editor/)
 
-- [Built-in Examples](https://docs.arduino.cc/built-in-examples/)
+- [Project Hub](https://projecthub.arduino.cc/)
