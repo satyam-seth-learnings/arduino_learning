@@ -9,3 +9,5 @@
 - [Arduino Web Editor](https://create.arduino.cc/editor/)
 
 - [Project Hub](https://projecthub.arduino.cc/)
+
+- [How to Use a Breadboard](https://youtu.be/6WReFkfrUIk?si=X2N8BdS5Phu4Hjuf)
